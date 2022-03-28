@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/shahnewaz_sakil" target="blank"><img src="https://img.shields.io/twitter/follow/shahnewaz_sakil?logo=twitter&style=for-the-badge" alt="shahnewaz_sakil" /></a> </p>
 
-- 🔭 I’m currently working on **Wordpress**
+- 🔭 I’m currently working on **Themepure**
+
+- 🌱 I’m currently learning **Wordpress & PHP**
 
 - 📫 How to reach me **shahnewaz720@gmail.com**
+
+- ⚡ Fun fact **I Don't Know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
